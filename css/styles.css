@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/vegas.jpg') no-repeat top center ;
+  background: url("../img/vegas.jpg") no-repeat top center ;
   background-size: cover;
   background-position: center;
   overflow: hidden;
